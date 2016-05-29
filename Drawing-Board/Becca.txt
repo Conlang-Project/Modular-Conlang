@@ -1,0 +1,208 @@
+SAMPLE LANGUAGES
+Select the top language from each unique major language family by total number of speakers, until you have five languages.
+
+INDO-EUROPEAN:	English
+SINO-TIBETAN:	Mandarin
+AFRO-ASIATIC:	Modern Standard Arabic
+AUSTRONESIAN:	Malay
+JAPONIC:	Japanese
+
+--------
+FEATURES
+--------
+
+NOUNS
+
+		Gender?			Number?			Case?					Pronominal Possessive Affixes?
+English		None			Sing/Plur		Nominative/Possessive			None
+Mandarin	None			With Certain People	No, but ba constructions		None
+Arabic		Yes, M/F		Sing/Dual/Plur		Nominative/Genitive/Accusative		Yes
+Malay		None			None			None					Yes
+Japanese	None			None			None					None
+---------------
+Strict (5/5)	None			None			None					None
+Close (4/5)	None			None			None					None
+Average (3/5)	None			With Certain People	None					None
+					(sing/plur)
+
+STATES
+
+		Indefinite?		Definite?		Construct?
+English		Yes, Analytic		Yes, Analytic		None
+Mandarin	None			None			None
+Arabic		Yes, Synthetic		Yes, Synthetic		Yes, Synthetic
+Malay		None			None			None
+Japanese	None			None			None
+---------------
+Strict (5/5)	None			None			None
+Close (4/5)	None			None			None
+Average (3/5)	None			None			None
+
+COUNTABILITY
+
+		Distinguished?		Measure Word Required?
+English		Yes			No
+Mandarin	Yes			Yes
+Arabic		Yes			No
+Malay		Yes			Yes
+Japanese	No			Yes
+---------------
+Strict (5/5)	No			No
+Close (4/5)	Yes			No
+Average (3/5)	Yes			Yes
+
+PRONOUNS
+
+		Gender?			Number?			Case?						Formality/Politeness?
+English		Natural, M/F/N		Singular/Plural		Nominative/Oblique/Possessive			None
+Mandarin	None			Singular/Plural		None						None
+Arabic		Grammatical, M/F/N*	Singular/Dual/Plural	Nomin/Dat/Instr-Loc/All/Super/Com/Abl/Themat	None
+Malay		None			Singular/Plural		None						Yes
+Japanese	Natural, M/F/N		Yes, Sing/Plur		None						Yes
+---------------
+Strict (5/5)	None			Yes, Singular/Plural	None						None
+Close (4/5)	None			Yes, Singular/Plural	None						None
+Average (3/5)	Natural, M/F/N		Yes, Singular/Plural	None						None
+
+* inanimate distinction in pluralization
+
+POSSESSION
+
+		Synthetic Gen-Type Poss.?	Analytic Gen-Type Poss.?	Synthetic Con-Type Poss.?	Analytic Con-Type Poss.?
+English		Yes				Yes				No				No
+Mandarin	No				Yes				No				No
+Arabic		Yes				No				Yes				Yes, when construct not explicit
+Malay		No				Yes				No				Yes, word+word
+Japanese	No				Yes				No				No
+---------------
+Strict (5/5)	None				None				None				None
+Close (4/5)	None				Yes				None				None
+Average (3/5)	None				Yes				None				None
+
+REFLEXIVE
+
+		Pronominal?					Verbal?
+English		Yes (-self, so e.g. himself/herself)		Yes ("self-medicate")
+Mandarin	Yes (自己, zìjǐ, -self, so e.g. tā zìjǐ)	Yes (自學, zìxué, self-study)
+Arabic		Yes ("nafsa" meaning same)			Yes (paradigm)
+Malay		No						No
+Japanese	Yes (自分, jibun, oneself)			Not really, but a very common construction is "do self-()", e.g.
+								"jisatsu" 'suicide', "jisatsu suru" 'do suicide')
+---------------
+Strict (5/5)	None						None
+Close (4/5)	Yes						None
+Average (3/5)	Yes						Yes
+
+RECIPROCAL
+
+		Synthetic?		Reduplicative?		Pronominal?				Adverbial?
+English		No			No			Yes ("each other". "one another")	Yes ("mutually", "reciprocally")
+Mandarin	No			No			No					Yes
+Arabic		No			No			Yes (بعضهما البعض, ~='each the other')	yes ('mutually'/'reciprocally'/'alternately')
+Malay		No			Yes			Yes ("between one same another")	yes ('saling' meaning 'mutually')
+Japanese	No			No			Yes (otagai)				yes ('tagaini' together/mutually/reciprocally)
+---------------
+Strict (5/5)	None			None			None					Yes
+Close (4/5)	No			No			Yes					Yes
+Average (3/5)	None			None			Yes					Yes
+
+---------------
+
+DISJUNCTIVE
+
+		Who's there?-Me.	I'll do it myself.	Because of me.
+English		Me. *or* It is I.	myself			because of me
+Mandarin	我 (wǒ), 是我 (shì wǒ)	wǒ zìjǐ			yīnwèi wǒ
+Arabic		Ana. (I)		بنفسي b-nfs-i		b-sbb-i (ana)
+Malay		Aku. (I/me)		sendiri independently	kerana aku
+Japanese	Watashi[desu] (I[be])	jibun de, by oneself	watashi no sei de
+---------------
+Strict (5/5)	I.			(null)			(null)
+Close (4/5)	I.			by self(generic)	(null)
+Average (3/5)	I.			by myself		because of I		
+
+RELATIVE CLAUSES
+
+		Animate Subject			Animate Object			Inanimate Subject		Inanimate Object
+English		who/that			who/whom/that			which/that			which/that
+Mandarin	verb-part-that-person		subj-verb-part-that-person	verb-part-that-subj		subj-verb-part-that-obj
+Arabic		alladhi/alladhani/alladhin	alladhi/alladhayni/alladhina	alladhi/alladhani/allati	allladhi/allladhayni/allati
+Malay		yang (who/which/whom/what)	yang				yang				yang
+Japanese	that-verb-person		that-subject-verb-person	that-verb-thing			that-subject-verb-thing
+---------------
+Strict (5/5)	(null)				(null)				(null)				(null)
+Close (4/5)	(null)				(null)				(null)				(null)
+Average (3/5)	'that'				'that'				'that'				'that'
+
+===HERE SEQUENTIALLY===
+
+skipping ahead...
+
+DEMONSTRATIVES
+
+		This			That			that yonder
+English		this			that			none
+Mandarin	present			present			none
+Arabic		present			present			none
+Malay		present			present			none
+Japanese	present			present			present
+---------------
+Strict (5/5)	this			that			none
+Close (4/5)	this			that			none
+Average (3/5)	this			that			none
+
+VERB TENSES
+
+		Synthetic Past		Synthetic Present	Synthetic Future	Analytic Past	Analytic Present	Analytic Future
+English		yes (she ate)		yes (she eats)		no			no		no			yes (she will eat)
+Mandarin	no			invariable		no			adverbial	no			yes
+Arabic		yes			yes			yes			no		no			no
+Malay		no			invariable		no			adverbial	no			adverbial
+Japanese	yes			yes			same as present		no		no			no
+---------------
+Strict (5/5)	no			[no]			no			[no](adverbial)	[no]			[no](adverbial)
+Close (4/5)	no			[no]			no			[no](adverbial)	[no]			[no](adverbial)
+Average (3/5)	yes			yes			no			no		no			[no](adverbial)
+
+VERB ASPECTS
+
+		Synthetic Aspect	Analytic Aspect				Relative Time
+English		no			yes (I am going, I have gone)		no
+Mandarin	no			yes					yes
+Arabic		no			no					yes
+Malay		yes (e.g. habitual)	yes (reduplicative)			yes
+Japanese	yes (～ている)		no					no?
+---------------
+Strict (5/5)	no			no					no
+Close (4/5)	no			no					no?
+Average (3/5)	no			yes					yes
+
+VERB INFLECTION FOR PERSON, NUMBER, GENDER
+
+		Person			Number			Gender
+English		yes			yes			no
+Mandarin	no			no			no
+Arabic		yes			yes			yes
+Malay		no			no			no
+Japanese	no			no			no*
+---------------
+Strict (5/5)	no			no			no
+Close (4/5)	no			no			no
+Average (3/5)	no			no			no
+
+*men and women often use different verbs though
+
+COPULA
+
+		For qualities			For nouns			For places			For emotions
+English		be/is/are/etc			be/is/are/etc			be/is/are/etc			be/is/are/etc
+Mandarin	none				shì				shì				none
+Arabic		none				none				none				none
+Malay		none				ialah				berada				none
+Japanese	none*				desu				iru/imasu			desu
+---------------
+Strict (5/5)	none				none				none				none
+Close (4/5)	none				be-equal-to			be-at				none
+Average (3/5)	none				be-equal-to			be-at				none
+
+* wa marks the topic
