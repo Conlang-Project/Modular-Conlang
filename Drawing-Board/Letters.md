@@ -1,6 +1,34 @@
 # Ideas for alphabet / sounds
 
-## Vowels
+## Idea 1
+
+### Vowels
+
+* A
+* I
+* U
+* E
+* O
+
+### Consonants
+
+* F
+* H
+* J
+* K
+* L
+* M
+* N
+* Ng
+* P
+* R
+* S
+* T
+* W
+
+## Idea 2
+
+### Vowels
 
 ![Vowels A I U E O Y](https://github.com/Conlang-Project/Modular-Conlang/blob/master/Assets/HandVowels.png?raw=true)
 
@@ -22,7 +50,7 @@ Vowels sound like in Esperanto
   * Ye
   * Yo
 
-## Consonants
+### Consonants
 
 ![Consonants B D G L M S N H](https://github.com/Conlang-Project/Modular-Conlang/blob/master/Assets/CompassConsonants.png?raw=true)
 
