@@ -14,17 +14,28 @@
 
 * F
 * H
-* J
+* J ("Y" sound)
 * K
 * L
 * M
 * N
-* Ng
 * P
 * R
 * S
 * T
 * W
+
+### Valid combinations:
+
+* Ng
+* Sh
+* Ch
+
+### Invalid combinations:
+
+* Th
+* Ph (Just use "F"?)
+* St
 
 ## Idea 2
 
