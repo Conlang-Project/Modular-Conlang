@@ -25,17 +25,23 @@
 * T
 * W
 
-### Valid combinations:
+### Digraphs:
 
-* Ng
-* Sh
-* Ch
+* Ng (siNG)
+* Sh (SHe)
+* Ch (CHocolate)
+* Qu (QUick)
 
-### Invalid combinations:
-
-* Th
-* Ph (Just use "F"?)
-* St
+### Foreign words:
+When importing English words, make the following changes
+* B  -> p
+* C  -> s or ch
+* D  -> T
+* G  -> K
+* Th -> F
+* V  -> W
+* Ph -> F
+* St -> T
 
 ## Idea 2
 
